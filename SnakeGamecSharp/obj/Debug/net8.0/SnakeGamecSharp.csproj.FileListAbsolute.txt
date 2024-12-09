@@ -1,0 +1,14 @@
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\bin\Debug\net8.0\SnakeGamecSharp.exe
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\bin\Debug\net8.0\SnakeGamecSharp.deps.json
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\bin\Debug\net8.0\SnakeGamecSharp.runtimeconfig.json
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\bin\Debug\net8.0\SnakeGamecSharp.dll
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\bin\Debug\net8.0\SnakeGamecSharp.pdb
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.AssemblyInfoInputs.cache
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.AssemblyInfo.cs
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.csproj.CoreCompileInputs.cache
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.dll
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\refint\SnakeGamecSharp.dll
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.pdb
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\SnakeGamecSharp.genruntimeconfig.cache
+C:\Users\ah7ch\source\repos\SnakeGamecSharp\obj\Debug\net8.0\ref\SnakeGamecSharp.dll
